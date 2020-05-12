@@ -1,0 +1,1947 @@
+2020-26-04 14:03:05   INFO [pages.LoginPage] : Login page was opened
+2020-26-04 14:24:05   INFO [pages.LoginPage] : Login page was opened
+2020-26-04 14:27:48   INFO [pages.LoginPage] : Login page was opened
+2020-26-04 14:31:15   INFO [pages.LoginPage] : Login page was opened
+2020-26-04 14:31:25  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-26-04 14:33:07   INFO [pages.LoginPage] : Login page was opened
+2020-26-04 15:11:00   INFO [pages.LoginPage] : Login page was opened
+2020-26-04 15:11:01   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-26-04 15:11:01   INFO [pages.LoginPage] : Name typed
+2020-26-04 15:11:01   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-26-04 15:11:01   INFO [pages.LoginPage] : Password typed
+2020-26-04 15:11:01   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-26-04 15:13:16   INFO [pages.LoginPage] : Login page was opened
+2020-26-04 15:13:17   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-26-04 15:13:17   INFO [pages.LoginPage] : Name typed
+2020-26-04 15:13:17   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-26-04 15:13:17   INFO [pages.LoginPage] : Password typed
+2020-26-04 15:13:17   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-26-04 15:14:31   INFO [pages.LoginPage] : Login page was opened
+2020-26-04 15:14:32   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-26-04 15:14:32   INFO [pages.LoginPage] : Name typed
+2020-26-04 15:14:32   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-26-04 15:14:32   INFO [pages.LoginPage] : Password typed
+2020-26-04 15:14:32   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 19:11:26   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 19:11:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 19:11:27   INFO [pages.LoginPage] : Name typed
+2020-28-04 19:11:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 19:11:27   INFO [pages.LoginPage] : Password typed
+2020-28-04 19:11:27   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:08:59   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:09:00   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:09:00   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:09:00   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:09:00   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:09:00   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:11:32   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:11:33   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:11:33   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:11:33   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:11:33   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:11:33   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:25:08   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:25:08   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:25:08   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:25:08   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:25:08   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:25:08   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:29:40   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:29:40   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:29:40   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:29:41   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:29:41   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:29:41   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:29:43   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 20:31:19   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:31:19   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:31:19   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:31:19   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:31:19   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:31:20   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:31:21   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 20:36:25   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:36:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:36:26   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:36:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:36:26   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:36:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:37:35   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:37:36   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:37:36   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:37:36   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:37:36   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:37:36   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:37:37   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 20:39:54   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:39:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:39:55   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:39:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:39:55   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:39:55   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:39:57   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 20:48:44   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:48:44   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:48:44   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:48:44   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:48:44   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:48:44   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:48:46   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 20:49:01  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 20:50:37   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:50:37   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:50:37   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:50:38   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:50:38   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:50:38   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:50:40   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 20:50:56  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 20:55:27   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 20:55:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:55:27   INFO [pages.LoginPage] : Name typed
+2020-28-04 20:55:28   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 20:55:28   INFO [pages.LoginPage] : Password typed
+2020-28-04 20:55:28   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 20:55:31   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 20:55:47  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:12:39   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:12:40   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:12:40   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:12:40   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:12:40   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:12:40   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:12:41   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:13:01  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:16:03   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:16:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:16:04   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:16:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:16:04   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:16:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:16:17   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:16:37  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:18:20   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:18:20   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:18:20   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:18:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:18:21   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:18:21   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:18:23   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:18:38  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:21:49   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:21:50   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:21:50   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:21:50   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:21:50   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:21:50   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:21:52   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:22:08  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:25:27   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:25:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:25:27   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:25:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:25:27   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:25:27   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:25:30   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:25:46  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:28:15   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:28:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:28:15   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:28:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:28:16   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:28:16   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:28:18   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:28:34  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:30:55   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:30:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:30:55   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:30:56   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:30:56   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:30:56   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:31:00   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:31:16  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:33:16   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:33:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:33:16   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:33:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:33:16   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:33:16   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:33:19   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:33:34  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-28-04 21:35:42   INFO [pages.LoginPage] : Login page was opened
+2020-28-04 21:35:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:35:43   INFO [pages.LoginPage] : Name typed
+2020-28-04 21:35:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-28-04 21:35:43   INFO [pages.LoginPage] : Password typed
+2020-28-04 21:35:43   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-28-04 21:35:45   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-28-04 21:36:01  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 12:11:17  ERROR [pages.LoginPage] : Unable to open this page
+2020-29-04 12:11:29  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 12:11:29   INFO [pages.LoginPage] : Name typed
+2020-29-04 12:11:42  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 12:11:42   INFO [pages.LoginPage] : Password typed
+2020-29-04 12:11:54  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-29-04 12:12:18  ERROR [libs.ActionsWithWebElements] : Can`t click button inside the iFrame
+2020-29-04 12:50:21   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 12:50:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 12:50:21   INFO [pages.LoginPage] : Name typed
+2020-29-04 12:50:22   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 12:50:22   INFO [pages.LoginPage] : Password typed
+2020-29-04 12:50:22   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 12:50:24   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 12:50:25   INFO [libs.ActionsWithWebElements] : Button inside iFrame clicked ...
+2020-29-04 13:07:50   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:07:51   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:07:51   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:07:51   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:07:51   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:07:51   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:07:53   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:14:16   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:14:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:14:16   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:14:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:14:16   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:14:17   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:14:19   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:17:41   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:17:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:17:42   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:17:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:17:42   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:17:42   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:17:45   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:19:05   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:19:05   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:19:05   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:19:06   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:19:06   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:19:06   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:19:08   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:20:56   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:20:56   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:20:56   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:20:56   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:20:56   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:20:56   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:20:59   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:20:59   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 13:21:15  ERROR [libs.ActionsWithWebElements] : Can`t click button inside the iFrame
+2020-29-04 13:22:55   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:22:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:22:55   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:22:56   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:22:56   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:22:56   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:22:58   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:22:59   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 13:22:59  ERROR [libs.ActionsWithWebElements] : Can`t click button inside the iFrame
+2020-29-04 13:26:24   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:26:24   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:26:24   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:26:25   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:26:25   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:26:25   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:26:27   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:26:27   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 13:26:28  ERROR [libs.ActionsWithWebElements] : Can`t click button inside the iFrame
+2020-29-04 13:40:30   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:40:30   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:40:30   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:40:30   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:40:30   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:40:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:40:33   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:40:34  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 13:40:34   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 13:47:29   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:47:29   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:47:29   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:47:29   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:47:29   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:47:29   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:47:32   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:47:33  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 13:47:33   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 13:55:48   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:55:49   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:55:49   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:55:49   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:55:49   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:55:49   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:55:52   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:55:57  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 13:55:57   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 13:58:38   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 13:58:38   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:58:38   INFO [pages.LoginPage] : Name typed
+2020-29-04 13:58:38   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 13:58:38   INFO [pages.LoginPage] : Password typed
+2020-29-04 13:58:38   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 13:58:41   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 13:58:41  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 13:58:41   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:05:48   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:05:48   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:05:48   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:05:48   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:05:48   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:05:49   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:05:51   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:05:56  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:05:56   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:09:42   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:09:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:09:42   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:09:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:09:42   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:09:43   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:09:45   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:09:45  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:09:45   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:11:43   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:11:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:11:43   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:11:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:11:43   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:11:43   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:11:46   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:12:16  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:12:16   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:15:20   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:15:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:15:21   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:15:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:15:21   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:15:21   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:15:24   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:15:26  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:15:26   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:17:37   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:17:38   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:17:38   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:17:38   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:17:38   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:17:38   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:17:41   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:17:42  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:17:42   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:28:25   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:28:25   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:28:25   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:28:25   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:28:25   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:28:25   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:28:28   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:28:58  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:28:58   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:29:38   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:29:39   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:29:39   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:29:39   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:29:39   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:29:39   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:29:43   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:29:45  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:29:45   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:39:16   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:39:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:39:16   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:39:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:39:16   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:39:16   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:39:18   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:39:48  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:39:48   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:40:49   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:40:49   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:40:49   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:40:49   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:40:49   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:40:49   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:40:52   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:40:53  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 14:40:53   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:49:52   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:49:52   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:49:52   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:49:52   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:49:52   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:49:52   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:49:55   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:49:55   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:59:03   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 14:59:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:59:04   INFO [pages.LoginPage] : Name typed
+2020-29-04 14:59:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 14:59:04   INFO [pages.LoginPage] : Password typed
+2020-29-04 14:59:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 14:59:07   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 14:59:07   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 14:59:19  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 14:59:19   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:01:48   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:01:48   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:01:48   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:01:48   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:01:48   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:01:48   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:01:51   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:01:52  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-29-04 15:01:52   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:02:08  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:02:08   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:04:34   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:04:34   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:04:34   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:04:35   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:04:35   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:04:35   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:04:37   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:04:38   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:04:54  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:04:54   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:06:58   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:06:58   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:06:58   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:06:59   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:06:59   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:06:59   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:07:01   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:07:07   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:07:10  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:07:10   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:07:25   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:07:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:07:26   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:07:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:07:26   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:07:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:07:28   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:07:29   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:07:45  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:07:45   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:08:56   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:08:57   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:08:57   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:08:57   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:08:57   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:08:57   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:09:00   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:09:01   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:09:16  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:09:16   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:10:27   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:10:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:10:27   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:10:28   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:10:28   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:10:28   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:10:30   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:10:30   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:10:46  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:10:46   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:12:46   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:12:46   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:12:46   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:12:46   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:12:46   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:12:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:12:49   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:12:50   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:13:03  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:13:03   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:14:43   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:14:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:14:43   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:14:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:14:43   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:14:43   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:14:46   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:14:46   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:14:54  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:14:54   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 15:26:11   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 15:26:11   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:26:11   INFO [pages.LoginPage] : Name typed
+2020-29-04 15:26:12   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 15:26:12   INFO [pages.LoginPage] : Password typed
+2020-29-04 15:26:12   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 15:26:14   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 15:26:15   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 15:26:30  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 15:26:30   INFO [pages.BonusManagementPage] : Bonus title typed
+2020-29-04 16:16:44   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 16:16:44   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:16:44   INFO [pages.LoginPage] : Name typed
+2020-29-04 16:16:45   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:16:45   INFO [pages.LoginPage] : Password typed
+2020-29-04 16:16:45   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 16:16:47   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 16:16:48   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 16:18:22   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 16:18:22   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:18:22   INFO [pages.LoginPage] : Name typed
+2020-29-04 16:18:22   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:18:22   INFO [pages.LoginPage] : Password typed
+2020-29-04 16:18:22   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 16:18:27   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 16:18:28   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 16:19:24   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 16:19:24   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:19:24   INFO [pages.LoginPage] : Name typed
+2020-29-04 16:19:25   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:19:25   INFO [pages.LoginPage] : Password typed
+2020-29-04 16:19:25   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 16:19:27   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 16:19:28   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 16:19:43  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-29-04 16:19:43   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-29-04 16:38:26   INFO [pages.LoginPage] : Login page was opened
+2020-29-04 16:38:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:38:26   INFO [pages.LoginPage] : Name typed
+2020-29-04 16:38:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:38:26   INFO [pages.LoginPage] : Password typed
+2020-29-04 16:38:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-29-04 16:38:29   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-29-04 16:38:29   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-29-04 16:38:29   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-29-04 16:38:37   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-29-04 16:38:37   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 12:28:41   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 12:28:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 12:28:42   INFO [pages.LoginPage] : Name typed
+2020-04-05 12:28:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 12:28:42   INFO [pages.LoginPage] : Password typed
+2020-04-05 12:28:42   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 12:28:45   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 12:28:45   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 12:28:45   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 12:28:53   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 12:28:53   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 12:57:15   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 12:57:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 12:57:15   INFO [pages.LoginPage] : Name typed
+2020-04-05 12:57:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 12:57:16   INFO [pages.LoginPage] : Password typed
+2020-04-05 12:57:16   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 12:57:18   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 12:57:18   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 12:57:18   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 12:57:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 12:57:26   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 12:57:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:02:43   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 13:02:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:02:43   INFO [pages.LoginPage] : Name typed
+2020-04-05 13:02:44   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:02:44   INFO [pages.LoginPage] : Password typed
+2020-04-05 13:02:49   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:02:55   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 13:02:55   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 13:02:55   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 13:03:03   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:03:03   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 13:03:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:03:04   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 13:38:01   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 13:38:01   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:38:01   INFO [pages.LoginPage] : Name typed
+2020-04-05 13:38:02   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:38:02   INFO [pages.LoginPage] : Password typed
+2020-04-05 13:38:02   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:38:04   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 13:38:05   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 13:38:05   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 13:38:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:38:15   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 13:38:15   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:38:15   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 13:38:15   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:40:02   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 13:40:03   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:40:03   INFO [pages.LoginPage] : Name typed
+2020-04-05 13:40:03   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:40:03   INFO [pages.LoginPage] : Password typed
+2020-04-05 13:40:03   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:40:06   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 13:40:06   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 13:40:06   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 13:40:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:40:15   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 13:40:15   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:40:15   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 13:40:16   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:50:59   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 13:51:00   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:51:00   INFO [pages.LoginPage] : Name typed
+2020-04-05 13:51:00   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:51:00   INFO [pages.LoginPage] : Password typed
+2020-04-05 13:51:00   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:51:03   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 13:51:04   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 13:51:04   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 13:51:12   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 13:51:12   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 13:51:12   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 13:51:12   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 13:51:12   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 14:18:43   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 14:18:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:18:43   INFO [pages.LoginPage] : Name typed
+2020-04-05 14:18:44   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:18:44   INFO [pages.LoginPage] : Password typed
+2020-04-05 14:18:44   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 14:18:48   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 14:18:49   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 14:18:49   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 14:18:59   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:18:59   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 14:18:59   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 14:19:00   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 14:19:00   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 14:19:16  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-04-05 14:30:27   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 14:30:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:30:27   INFO [pages.LoginPage] : Name typed
+2020-04-05 14:30:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:30:27   INFO [pages.LoginPage] : Password typed
+2020-04-05 14:30:28   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 14:30:33   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 14:30:34   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 14:30:34   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 14:30:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:30:42   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 14:30:42   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 14:30:43   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 14:30:51  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-04-05 14:39:03   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 14:39:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:39:04   INFO [pages.LoginPage] : Name typed
+2020-04-05 14:39:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:39:04   INFO [pages.LoginPage] : Password typed
+2020-04-05 14:39:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 14:39:07   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 14:39:07   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 14:39:07   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 14:39:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 14:39:15   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 14:39:15   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 14:39:16   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 14:39:23  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-04-05 16:13:21   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 16:13:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:13:21   INFO [pages.LoginPage] : Name typed
+2020-04-05 16:13:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:13:21   INFO [pages.LoginPage] : Password typed
+2020-04-05 16:13:21   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:13:26   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 16:13:26   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 16:13:26   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 16:13:35   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:13:35   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 16:13:35   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:13:36   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 16:15:58   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 16:15:59   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:15:59   INFO [pages.LoginPage] : Name typed
+2020-04-05 16:15:59   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:15:59   INFO [pages.LoginPage] : Password typed
+2020-04-05 16:15:59   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:16:04   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 16:16:04   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 16:16:04   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 16:16:12   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:16:12   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 16:16:13   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:16:13   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 16:16:25   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 16:19:11   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 16:19:12   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:19:12   INFO [pages.LoginPage] : Name typed
+2020-04-05 16:19:12   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:19:12   INFO [pages.LoginPage] : Password typed
+2020-04-05 16:19:12   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:19:16   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 16:19:17   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 16:19:17   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 16:19:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:19:26   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 16:19:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:19:26   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 16:19:33   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 16:19:48  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-04-05 16:24:19   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 16:24:20   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:24:20   INFO [pages.LoginPage] : Name typed
+2020-04-05 16:24:20   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:24:20   INFO [pages.LoginPage] : Password typed
+2020-04-05 16:24:20   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:24:24   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 16:24:24   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 16:24:24   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 16:24:34   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:24:34   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 16:24:34   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:24:34   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 16:24:41   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 16:24:57  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-04-05 16:32:02   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 16:32:03   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:32:03   INFO [pages.LoginPage] : Name typed
+2020-04-05 16:32:03   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:32:03   INFO [pages.LoginPage] : Password typed
+2020-04-05 16:32:03   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:32:07   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 16:32:08  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-04-05 16:32:08   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 16:35:15   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 16:35:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:35:15   INFO [pages.LoginPage] : Name typed
+2020-04-05 16:35:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:35:16   INFO [pages.LoginPage] : Password typed
+2020-04-05 16:35:16   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:35:20   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 16:35:20   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 16:35:20   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 16:35:29   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:35:29   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 16:35:29   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:35:29   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 16:35:36   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 16:35:39  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-04-05 16:46:00   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 16:46:00   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:46:00   INFO [pages.LoginPage] : Name typed
+2020-04-05 16:46:00   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:46:00   INFO [pages.LoginPage] : Password typed
+2020-04-05 16:46:00   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:46:05   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 16:46:05   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 16:46:05   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 16:46:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:46:15   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 16:46:15   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:46:15   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 16:59:38   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 16:59:39   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:59:39   INFO [pages.LoginPage] : Name typed
+2020-04-05 16:59:39   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 16:59:39   INFO [pages.LoginPage] : Password typed
+2020-04-05 16:59:39   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 16:59:43   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 16:59:48  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-04-05 16:59:48   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 17:01:53   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 17:01:53   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:01:53   INFO [pages.LoginPage] : Name typed
+2020-04-05 17:01:54   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:01:54   INFO [pages.LoginPage] : Password typed
+2020-04-05 17:01:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:01:58   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 17:02:03   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 17:02:03   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 17:02:11   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:02:11   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 17:02:11   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:02:12   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 17:02:19   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 17:02:19   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:30:14   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 17:30:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:30:15   INFO [pages.LoginPage] : Name typed
+2020-04-05 17:30:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:30:15   INFO [pages.LoginPage] : Password typed
+2020-04-05 17:30:15   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:30:17   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 17:30:21   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 17:30:21   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 17:30:28   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:30:28   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 17:30:28   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:30:28   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 17:30:35   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 17:30:35   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:41:42   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 17:41:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:41:42   INFO [pages.LoginPage] : Name typed
+2020-04-05 17:41:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:41:43   INFO [pages.LoginPage] : Password typed
+2020-04-05 17:41:43   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:41:47   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 17:41:50   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 17:41:50   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 17:41:59   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:41:59   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 17:42:00   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:42:00   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 17:42:07   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 17:42:07   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:42:13  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down
+2020-04-05 17:50:05   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 17:50:05   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:50:05   INFO [pages.LoginPage] : Name typed
+2020-04-05 17:50:05   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:50:05   INFO [pages.LoginPage] : Password typed
+2020-04-05 17:50:06   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:50:08   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 17:50:12   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 17:50:12   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 17:50:18   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:50:18   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 17:50:19   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:50:19   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 17:50:26   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 17:50:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:50:31  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down
+2020-04-05 17:50:58   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 17:50:58   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:50:58   INFO [pages.LoginPage] : Name typed
+2020-04-05 17:50:58   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:50:58   INFO [pages.LoginPage] : Password typed
+2020-04-05 17:50:59   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:51:01   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 17:51:05   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 17:51:05   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 17:51:11   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 17:51:11   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 17:51:12   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:51:12   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 17:51:19   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 17:51:19   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 17:51:26   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 18:20:32   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 18:20:32   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:20:32   INFO [pages.LoginPage] : Name typed
+2020-04-05 18:20:32   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:20:32   INFO [pages.LoginPage] : Password typed
+2020-04-05 18:20:33   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 18:20:35   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 18:20:38   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 18:20:38   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 18:20:45   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:20:45   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 18:20:45   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 18:20:45   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 18:20:52   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 18:20:52   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 18:20:57   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-04-05 18:29:41   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 18:29:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:29:42   INFO [pages.LoginPage] : Name typed
+2020-04-05 18:29:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:29:42   INFO [pages.LoginPage] : Password typed
+2020-04-05 18:29:42   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 18:29:46   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 18:29:49   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 18:29:49   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 18:30:24  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-04-05 18:30:24   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 18:30:35  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-04-05 18:31:04  ERROR [pages.LoginPage] : Unable to open this page
+2020-04-05 18:31:17  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-04-05 18:31:17   INFO [pages.LoginPage] : Name typed
+2020-04-05 18:31:29  ERROR [libs.ActionsWithWebElements] : Something went wrong
+2020-04-05 18:31:29   INFO [pages.LoginPage] : Password typed
+2020-04-05 18:31:41  ERROR [libs.ActionsWithWebElements] : Can`t click the button
+2020-04-05 18:32:05  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-04-05 18:32:05   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 18:36:34   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 18:36:34   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:36:34   INFO [pages.LoginPage] : Name typed
+2020-04-05 18:36:34   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:36:34   INFO [pages.LoginPage] : Password typed
+2020-04-05 18:36:34   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 18:36:46   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 18:36:50   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 18:36:50   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 18:37:02   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:37:02   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 18:37:02   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 18:37:02   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 18:37:10   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 18:37:10   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-04-05 18:37:10   INFO [pages.BonusSetupPage] : Game title selected
+2020-04-05 18:42:14   INFO [pages.LoginPage] : Login page was opened
+2020-04-05 18:42:14   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:42:14   INFO [pages.LoginPage] : Name typed
+2020-04-05 18:42:14   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:42:14   INFO [pages.LoginPage] : Password typed
+2020-04-05 18:42:14   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 18:42:17   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-04-05 18:42:20   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-04-05 18:42:20   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-04-05 18:42:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-04-05 18:42:27   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-04-05 18:42:27   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-04-05 18:42:27   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-04-05 18:42:34   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-04-05 18:42:34   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-04-05 18:42:34   INFO [pages.BonusSetupPage] : Game title selected
+2020-04-05 18:42:39   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 18:31:08   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 18:31:09   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:31:09   INFO [pages.LoginPage] : Name typed
+2020-08-05 18:31:09   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:31:09   INFO [pages.LoginPage] : Password typed
+2020-08-05 18:31:09   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:31:11   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 18:31:15   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 18:31:15   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 18:31:22   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:31:22   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 18:31:22   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:31:22   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 18:31:29   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 18:31:29   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 18:31:29   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 18:31:34   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 18:44:13   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 18:44:14   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:44:14   INFO [pages.LoginPage] : Name typed
+2020-08-05 18:44:14   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:44:14   INFO [pages.LoginPage] : Password typed
+2020-08-05 18:44:14   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:44:16   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 18:44:20   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 18:44:20   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 18:44:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:44:26   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 18:44:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:44:26   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 18:44:33   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 18:44:33   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 18:44:33   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 18:44:38   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 18:44:39   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 18:44:39   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 18:50:52   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 18:50:53   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:50:53   INFO [pages.LoginPage] : Name typed
+2020-08-05 18:50:53   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:50:53   INFO [pages.LoginPage] : Password typed
+2020-08-05 18:50:53   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:50:56   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 18:50:59   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 18:50:59   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 18:51:06   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:51:06   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 18:51:06   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:51:06   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 18:51:12   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 18:51:12   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 18:51:12   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 18:51:17   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 18:51:18   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 18:51:18   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 18:52:13   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 18:52:14   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:52:14   INFO [pages.LoginPage] : Name typed
+2020-08-05 18:52:14   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:52:14   INFO [pages.LoginPage] : Password typed
+2020-08-05 18:52:14   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:52:16   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 18:52:20   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 18:52:20   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 18:52:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:52:26   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 18:52:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:52:26   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 18:52:33   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 18:52:33   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 18:52:33   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 18:52:38   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 18:52:38   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 18:52:38   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 18:52:38   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:57:30   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 18:57:31   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:57:31   INFO [pages.LoginPage] : Name typed
+2020-08-05 18:57:31   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:57:31   INFO [pages.LoginPage] : Password typed
+2020-08-05 18:57:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:57:33   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 18:57:37   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 18:57:37   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 18:57:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 18:57:43   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 18:57:43   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:57:43   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 18:57:50   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 18:57:50   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 18:57:50   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 18:57:55   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 18:57:55   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 18:57:55   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 18:57:55   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 18:57:56   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:12:32   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 19:12:32   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:12:32   INFO [pages.LoginPage] : Name typed
+2020-08-05 19:12:33   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:12:33   INFO [pages.LoginPage] : Password typed
+2020-08-05 19:12:33   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:12:34   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 19:12:39  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-08-05 19:12:39   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 19:13:11   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 19:13:12   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:13:12   INFO [pages.LoginPage] : Name typed
+2020-08-05 19:13:12   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:13:12   INFO [pages.LoginPage] : Password typed
+2020-08-05 19:13:12   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:13:16   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 19:13:19   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 19:13:19   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 19:13:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:13:27   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 19:13:27   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:13:27   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 19:13:35   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 19:13:35   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 19:13:35   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 19:13:40   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 19:13:40   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:13:41   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:13:41   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:13:41   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:13:41   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:13:41   INFO [pages.BonusSetupPage] : Player ID entered
+2020-08-05 19:18:35   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 19:18:35   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:18:35   INFO [pages.LoginPage] : Name typed
+2020-08-05 19:18:36   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:18:36   INFO [pages.LoginPage] : Password typed
+2020-08-05 19:18:36   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:18:39   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 19:18:43   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 19:18:43   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 19:18:50   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:18:50   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 19:18:50   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:18:50   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 19:18:57   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 19:18:57   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 19:18:57   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 19:19:03   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 19:19:03   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:19:03   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:19:03   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:19:03   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:19:04   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:19:04   INFO [pages.BonusSetupPage] : Player ID entered
+2020-08-05 19:20:01   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 19:20:01   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:20:01   INFO [pages.LoginPage] : Name typed
+2020-08-05 19:20:01   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:20:01   INFO [pages.LoginPage] : Password typed
+2020-08-05 19:20:02   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:20:06   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 19:20:09   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 19:20:09   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 19:20:18   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:20:18   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 19:20:18   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:20:19   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 19:20:25   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 19:20:26   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 19:20:26   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 19:20:31   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 19:20:31   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:20:31   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:20:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:20:32   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:20:32   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 19:20:32   INFO [pages.BonusSetupPage] : Player ID entered
+2020-08-05 19:53:05   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 19:53:05   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:53:05   INFO [pages.LoginPage] : Name typed
+2020-08-05 19:53:05   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:53:05   INFO [pages.LoginPage] : Password typed
+2020-08-05 19:53:05   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:53:09   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 19:53:12   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 19:53:12   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 19:53:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:53:21   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 19:53:21   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:53:22   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 19:53:28   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 19:53:28   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 19:53:28   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 19:54:08   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 19:54:08   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:54:08   INFO [pages.LoginPage] : Name typed
+2020-08-05 19:54:08   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:54:08   INFO [pages.LoginPage] : Password typed
+2020-08-05 19:54:08   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:54:12   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 19:54:16   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 19:54:16   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 19:54:25   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 19:54:25   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 19:54:25   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 19:54:26   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 19:54:32   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 19:54:32   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 19:54:32   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 20:39:40   INFO [pages.LoginPage] : Login page was opened
+2020-08-05 20:39:40   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 20:39:40   INFO [pages.LoginPage] : Name typed
+2020-08-05 20:39:41   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 20:39:41   INFO [pages.LoginPage] : Password typed
+2020-08-05 20:39:41   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 20:39:43   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-08-05 20:39:47   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-08-05 20:39:47   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-08-05 20:39:49   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-08-05 20:39:49   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-08-05 20:39:49   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 20:39:50   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-08-05 20:39:52   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-08-05 20:39:52   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-08-05 20:39:52   INFO [pages.BonusSetupPage] : Game title selected
+2020-08-05 20:39:53   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-08-05 20:39:53   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 20:39:54   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 20:39:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 20:39:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-08-05 20:39:54   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-08-05 20:39:54   INFO [pages.BonusSetupPage] : Player ID entered
+2020-08-05 20:39:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:14:27   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:14:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:14:27   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:14:27   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:14:27   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:14:27   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:14:31   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:14:35   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 19:14:35   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:14:46   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:14:46   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 19:14:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:14:46   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 19:14:56   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 19:14:56   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 19:14:56   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 19:16:54   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:16:54   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:16:54   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:16:54   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:16:54   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:16:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:16:57   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:17:00   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 19:17:00   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:17:13   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:17:13   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 19:17:13   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:17:13   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 19:17:25   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 19:17:25   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 19:17:25   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 19:19:25   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:19:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:19:26   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:19:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:19:26   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:19:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:19:28   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:19:32   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 19:19:32   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:19:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:19:42   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 19:19:42   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:19:43   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 19:19:51   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 19:19:51   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 19:19:51   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 19:24:45   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:24:45   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:24:45   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:24:45   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:24:45   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:24:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:24:47   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:24:52  ERROR [libs.ActionsWithWebElements] : Can`t select Drop Down or click button
+2020-10-05 19:24:52   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:27:14   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:27:14   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:27:14   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:27:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:27:15   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:27:15   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:27:18   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:27:21   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 19:27:21   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:27:30   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:27:30   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 19:27:30   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:27:31   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 19:27:40   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 19:27:40   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 19:27:40   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 19:29:55   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:29:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:29:55   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:29:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:29:55   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:29:55   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:29:58   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:30:01   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 19:30:01   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:30:11   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:30:11   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 19:30:11   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:30:11   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 19:30:22   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 19:30:22   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 19:30:22   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 19:31:29   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:31:30   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:31:30   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:31:30   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:31:30   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:31:30   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:31:32   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:31:36   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 19:31:36   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:31:46   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:31:46   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 19:31:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:31:46   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 19:31:55   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 19:31:55   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 19:31:55   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 19:38:09   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:38:09   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:38:09   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:38:09   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:38:09   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:38:09   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:38:12   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:38:16   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 19:38:16   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:38:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:38:26   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 19:38:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:38:27   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 19:38:36   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 19:38:36   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 19:38:36   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 19:38:45   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 19:38:46   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 19:38:46   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 19:38:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:38:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:38:47   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 19:38:47   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 19:38:47   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:53:32   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 19:53:32   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:53:32   INFO [pages.LoginPage] : Name typed
+2020-10-05 19:53:32   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:53:32   INFO [pages.LoginPage] : Password typed
+2020-10-05 19:53:32   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:53:35   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 19:53:39   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 19:53:39   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 19:53:46   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 19:53:46   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 19:53:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:53:46   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 19:53:55   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 19:53:55   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 19:53:55   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 19:54:03   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 19:54:03   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 19:54:03   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 19:54:03   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:54:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 19:54:04   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 19:54:04   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 19:54:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:02:28   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 20:02:28   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:02:28   INFO [pages.LoginPage] : Name typed
+2020-10-05 20:02:28   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:02:28   INFO [pages.LoginPage] : Password typed
+2020-10-05 20:02:28   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:02:31   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 20:02:34   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 20:02:34   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 20:02:43   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:02:43   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 20:02:43   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:02:44   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 20:02:52   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 20:02:53   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 20:02:53   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 20:03:43   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 20:03:44   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:03:44   INFO [pages.LoginPage] : Name typed
+2020-10-05 20:03:44   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:03:44   INFO [pages.LoginPage] : Password typed
+2020-10-05 20:03:44   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:03:47   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 20:03:50   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 20:03:50   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 20:03:59   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:03:59   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 20:03:59   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:03:59   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 20:04:08   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 20:04:08   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 20:04:08   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 20:04:17   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 20:04:17   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 20:04:17   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 20:04:17   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:04:17   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:04:18   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 20:04:18   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 20:04:18   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:56:37   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 20:56:37   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:56:37   INFO [pages.LoginPage] : Name typed
+2020-10-05 20:56:37   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:56:37   INFO [pages.LoginPage] : Password typed
+2020-10-05 20:56:37   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:56:40   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 20:56:44   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 20:56:44   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 20:56:54   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:56:54   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 20:56:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:56:54   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 20:57:04   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 20:57:04   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 20:57:04   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 20:58:30   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 20:58:31   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:58:31   INFO [pages.LoginPage] : Name typed
+2020-10-05 20:58:31   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:58:31   INFO [pages.LoginPage] : Password typed
+2020-10-05 20:58:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:58:34   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 20:58:37   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 20:58:37   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 20:58:46   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 20:58:46   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 20:58:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:58:47   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 20:58:56   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 20:58:56   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 20:58:56   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 20:59:06   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 20:59:07   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 20:59:07   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 20:59:07   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:59:07   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 20:59:07   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 20:59:07   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 21:00:55   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 21:00:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:00:55   INFO [pages.LoginPage] : Name typed
+2020-10-05 21:00:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:00:55   INFO [pages.LoginPage] : Password typed
+2020-10-05 21:00:55   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:00:58   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 21:01:01   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 21:01:01   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 21:01:11   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:01:11   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 21:01:11   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:01:11   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 21:01:20   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 21:01:21   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 21:01:21   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 21:01:30   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 21:01:30   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:01:30   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:01:30   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:01:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:01:31   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:01:31   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 21:04:54   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 21:04:54   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:04:54   INFO [pages.LoginPage] : Name typed
+2020-10-05 21:04:54   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:04:54   INFO [pages.LoginPage] : Password typed
+2020-10-05 21:04:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:04:57   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 21:05:00   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 21:05:00   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 21:05:09   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:05:09   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 21:05:10   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:05:10   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 21:05:19   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 21:05:19   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 21:05:19   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 21:05:30   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 21:05:30   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:05:30   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:05:30   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:05:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:05:31   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:05:31   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 21:18:04   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 21:18:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:18:04   INFO [pages.LoginPage] : Name typed
+2020-10-05 21:18:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:18:04   INFO [pages.LoginPage] : Password typed
+2020-10-05 21:18:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:18:07   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 21:18:10   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 21:18:10   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 21:18:20   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:18:20   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 21:18:20   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:18:20   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 21:18:30   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 21:18:30   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 21:18:30   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 21:18:40   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 21:18:40   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:18:41   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:18:41   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:18:41   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:18:41   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:18:41   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 21:25:48   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 21:25:49   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:25:49   INFO [pages.LoginPage] : Name typed
+2020-10-05 21:25:49   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:25:49   INFO [pages.LoginPage] : Password typed
+2020-10-05 21:25:49   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:25:52   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 21:25:55   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 21:25:55   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 21:26:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:26:04   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 21:26:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:26:04   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 21:26:14   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 21:26:14   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 21:26:14   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 21:26:24   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 21:26:24   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:26:24   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:26:24   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:26:24   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:26:25   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:26:25   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 21:46:53   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 21:46:53   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:46:53   INFO [pages.LoginPage] : Name typed
+2020-10-05 21:46:53   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:46:53   INFO [pages.LoginPage] : Password typed
+2020-10-05 21:46:53   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:46:56   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 21:46:59   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 21:46:59   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 21:47:02   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:47:02   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 21:47:02   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:47:02   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 21:47:05   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 21:47:06   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 21:47:06   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 21:47:12   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 21:47:12   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:47:12   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:47:12   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:47:13   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:47:13   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:47:13   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 21:47:13   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-10-05 21:57:54   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 21:57:54   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:57:54   INFO [pages.LoginPage] : Name typed
+2020-10-05 21:57:55   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:57:55   INFO [pages.LoginPage] : Password typed
+2020-10-05 21:57:55   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:57:57   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 21:58:00   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 21:58:00   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 21:58:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 21:58:04   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 21:58:04   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:58:04   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 21:58:07   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 21:58:07   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 21:58:07   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 21:58:13   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 21:58:13   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:58:14   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:58:14   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:58:14   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 21:58:14   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 21:58:14   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 21:58:14   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-10-05 21:58:14   INFO [libs.ActionsWithWebElements] : Alert detected
+2020-10-05 22:00:37   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 22:00:38   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:00:38   INFO [pages.LoginPage] : Name typed
+2020-10-05 22:00:38   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:00:38   INFO [pages.LoginPage] : Password typed
+2020-10-05 22:00:38   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:00:41   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 22:00:44   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 22:00:44   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 22:00:48   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:00:48   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 22:00:48   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:00:48   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 22:00:51   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 22:00:51   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 22:00:51   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 22:00:58   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 22:00:58   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:00:58   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:00:58   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:00:58   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:00:59   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:00:59   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 22:00:59   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-10-05 22:00:59   INFO [libs.ActionsWithWebElements] : Alert detected
+2020-10-05 22:02:33   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 22:02:34   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:02:34   INFO [pages.LoginPage] : Name typed
+2020-10-05 22:02:34   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:02:34   INFO [pages.LoginPage] : Password typed
+2020-10-05 22:02:34   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:02:36   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 22:02:40   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 22:02:40   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 22:02:44   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:02:44   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 22:02:44   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:02:44   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 22:02:47   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 22:02:47   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 22:02:47   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 22:02:53   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 22:02:53   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:02:54   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:02:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:02:54   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:02:54   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:02:54   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 22:02:54   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-10-05 22:02:54   INFO [libs.ActionsWithWebElements] : Alert detected
+2020-10-05 22:21:57   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 22:21:57   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:21:57   INFO [pages.LoginPage] : Name typed
+2020-10-05 22:21:57   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:21:57   INFO [pages.LoginPage] : Password typed
+2020-10-05 22:21:57   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:22:00   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 22:22:03   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 22:22:03   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 22:22:13   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:22:13   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 22:22:13   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:22:13   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 22:22:22   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 22:22:23   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 22:22:23   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 22:22:32   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 22:22:32   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:22:33   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:22:33   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:22:33   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:22:33   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:22:33   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 22:22:33   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-10-05 22:22:33   INFO [libs.ActionsWithWebElements] : Alert detected
+2020-10-05 22:24:06   INFO [pages.LoginPage] : Login page was opened
+2020-10-05 22:24:06   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:24:06   INFO [pages.LoginPage] : Name typed
+2020-10-05 22:24:06   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:24:06   INFO [pages.LoginPage] : Password typed
+2020-10-05 22:24:06   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:24:09   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-10-05 22:24:12   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-10-05 22:24:12   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-10-05 22:24:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-10-05 22:24:21   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-10-05 22:24:21   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:24:22   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-10-05 22:24:30   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-10-05 22:24:31   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-10-05 22:24:31   INFO [pages.BonusSetupPage] : Game title selected
+2020-10-05 22:24:41   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-10-05 22:24:41   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:24:41   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:24:41   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:24:42   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-10-05 22:24:42   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-10-05 22:24:42   INFO [pages.BonusSetupPage] : Player ID entered
+2020-10-05 22:24:42   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-10-05 22:24:42   INFO [libs.ActionsWithWebElements] : Alert detected
+2020-11-05 13:13:30   INFO [pages.LoginPage] : Login page was opened
+2020-11-05 13:13:31   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 13:13:31   INFO [pages.LoginPage] : Name typed
+2020-11-05 13:13:31   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 13:13:31   INFO [pages.LoginPage] : Password typed
+2020-11-05 13:13:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 13:13:34   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-11-05 13:13:37   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-11-05 13:13:37   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-11-05 13:13:40   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 13:13:40   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-11-05 13:13:40   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 13:13:40   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-11-05 13:13:43   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-11-05 13:13:43   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-11-05 13:13:43   INFO [pages.BonusSetupPage] : Game title selected
+2020-11-05 13:13:49   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-11-05 13:13:49   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-11-05 13:13:49   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 13:13:49   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 13:13:49   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 13:13:50   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 13:13:50   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 13:13:50   INFO [pages.BonusSetupPage] : Player ID entered
+2020-11-05 13:13:50   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-11-05 13:13:50   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-11-05 13:13:50   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-11-05 13:13:55   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-11-05 13:13:55   INFO [libs.ActionsWithWebElements] : Sucess alert processed
+2020-11-05 13:23:16   INFO [pages.LoginPage] : Login page was opened
+2020-11-05 13:23:16   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 13:23:16   INFO [pages.LoginPage] : Name typed
+2020-11-05 13:23:17   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 13:23:17   INFO [pages.LoginPage] : Password typed
+2020-11-05 13:23:17   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 13:23:19   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-11-05 13:23:22   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-11-05 13:23:22   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-11-05 13:23:25   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 13:23:25   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-11-05 13:23:25   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 13:23:25   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-11-05 13:23:28   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-11-05 13:23:28   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-11-05 13:23:28   INFO [pages.BonusSetupPage] : Game title selected
+2020-11-05 13:23:34   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-11-05 13:23:34   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-11-05 13:23:34   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 13:23:35   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 13:23:35   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 13:23:35   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 13:23:35   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 13:23:35   INFO [pages.BonusSetupPage] : Player ID entered
+2020-11-05 13:23:35   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-11-05 13:23:35   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-11-05 13:23:35   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-11-05 13:23:37   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-11-05 13:23:37   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-11-05 13:23:37   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 16:03:09   INFO [pages.LoginPage] : Login page was opened
+2020-11-05 16:03:10   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 16:03:10   INFO [pages.LoginPage] : Name typed
+2020-11-05 16:03:10   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 16:03:10   INFO [pages.LoginPage] : Password typed
+2020-11-05 16:03:10   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 16:03:13   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-11-05 16:03:16   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-11-05 16:03:16   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-11-05 16:03:19   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-11-05 16:03:19   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-11-05 16:03:19   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 16:03:19   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-11-05 16:03:22   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-11-05 16:03:22   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-11-05 16:03:22   INFO [pages.BonusSetupPage] : Game title selected
+2020-11-05 16:03:28   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-11-05 16:03:28   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-11-05 16:03:28   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 16:03:29   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 16:03:29   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 16:03:29   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-11-05 16:03:29   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-11-05 16:03:29   INFO [pages.BonusSetupPage] : Player ID entered
+2020-11-05 16:03:29   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-11-05 16:03:29   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-11-05 16:03:29   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-11-05 16:03:31   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-11-05 16:03:31   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-11-05 16:03:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:01:56   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:01:56   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:01:56   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:01:56   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:01:56   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:01:56   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:01:59   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:02:02   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:02:02   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:02:09   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:02:09   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:02:10   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:02:10   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:02:18   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 17:02:18   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 17:02:18   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 17:02:26   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-12-05 17:02:26   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-12-05 17:02:26   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:02:27   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:02:27   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:02:27   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:02:27   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:02:27   INFO [pages.BonusSetupPage] : Player ID entered
+2020-12-05 17:02:27   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-12-05 17:02:27   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:02:27   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-12-05 17:02:34   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:02:34   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 17:02:34   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:03:28   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:03:29   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:03:29   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:03:29   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:03:29   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:03:29   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:03:31   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:03:35   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:03:35   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:03:42   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:03:42   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:03:42   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:03:43   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:03:50   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 17:03:51   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 17:03:51   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 17:03:59   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-12-05 17:03:59   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-12-05 17:04:00   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:04:00   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:04:00   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:04:00   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:04:01   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:04:01   INFO [pages.BonusSetupPage] : Player ID entered
+2020-12-05 17:04:01   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-12-05 17:04:01   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:04:01   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-12-05 17:04:17   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:04:17   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 17:04:17   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:04:17   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected
+2020-12-05 17:19:22   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:19:22   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:19:22   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:19:23   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:19:23   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:19:23   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:19:25   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:19:29   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:19:29   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:19:36   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:19:36   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:19:36   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:19:37   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:20:59   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:20:59   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:20:59   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:20:59   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:20:59   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:20:59   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:21:02   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:21:06   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:21:06   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:21:13   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:21:13   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:21:13   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:21:13   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:21:20   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 17:21:21   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 17:21:21   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 17:21:29   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-12-05 17:21:29   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-12-05 17:21:29   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:21:30   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:21:30   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:21:31   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:21:31   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:21:31   INFO [pages.BonusSetupPage] : Player ID entered
+2020-12-05 17:21:31   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-12-05 17:21:31   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:21:31   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-12-05 17:21:37   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:21:37   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 17:21:38   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:25:49   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:25:49   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:25:49   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:25:50   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:25:50   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:25:50   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:25:57   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:26:00   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:26:00   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:26:15   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:26:15   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:26:15   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:26:15   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:26:22   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 17:26:22   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 17:26:22   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 17:27:34   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:27:35   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:27:35   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:27:35   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:27:35   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:27:35   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:27:38   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:27:41   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:27:41   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:27:48   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:27:48   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:27:48   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:27:48   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:27:54   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 17:27:54   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 17:27:54   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 17:28:02   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-12-05 17:28:02   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-12-05 17:28:02   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:28:03   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:28:03   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:28:03   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:28:03   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:28:03   INFO [pages.BonusSetupPage] : Player ID entered
+2020-12-05 17:28:04   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-12-05 17:28:04   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:28:04   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-12-05 17:28:11   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:28:11   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 17:28:11   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:36:33   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:36:34   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:36:34   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:36:34   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:36:34   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:36:34   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:36:36   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:36:40   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:36:40   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:36:46   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:36:46   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:36:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:36:47   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:36:53   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 17:36:53   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 17:36:53   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 17:37:02   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-12-05 17:37:02   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-12-05 17:37:02   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:37:02   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:37:02   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:37:03   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:37:03   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:37:03   INFO [pages.BonusSetupPage] : Player ID entered
+2020-12-05 17:37:03   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-12-05 17:37:03   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:37:03   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-12-05 17:37:08   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:37:08   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 17:37:09   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:49:07   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:49:07   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:49:07   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:49:08   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:49:08   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:49:08   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:49:10   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:49:14   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:49:14   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:49:21   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:49:21   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:49:21   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:49:21   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:49:28   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 17:49:28   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 17:49:28   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 17:49:36   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-12-05 17:49:36   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-12-05 17:49:36   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:49:37   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:49:37   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:49:37   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:49:37   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:49:37   INFO [pages.BonusSetupPage] : Player ID entered
+2020-12-05 17:49:37   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-12-05 17:49:37   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:49:37   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-12-05 17:49:45   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:49:45   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 17:49:46   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:59:25   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 17:59:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:59:26   INFO [pages.LoginPage] : Name typed
+2020-12-05 17:59:26   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:59:26   INFO [pages.LoginPage] : Password typed
+2020-12-05 17:59:26   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:59:28   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 17:59:32   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 17:59:32   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 17:59:39   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 17:59:39   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 17:59:39   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:59:40   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 17:59:46   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 17:59:47   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 17:59:47   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 17:59:55   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-12-05 17:59:55   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-12-05 17:59:55   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:59:56   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:59:56   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:59:56   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 17:59:57   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 17:59:57   INFO [pages.BonusSetupPage] : Player ID entered
+2020-12-05 17:59:57   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-12-05 17:59:57   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 17:59:57   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-12-05 18:00:15   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 18:00:15   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 18:00:16   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 18:00:16   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected
+2020-12-05 18:00:16   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 18:29:04   INFO [pages.LoginPage] : Login page was opened
+2020-12-05 18:29:04   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 18:29:04   INFO [pages.LoginPage] : Name typed
+2020-12-05 18:29:05   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 18:29:05   INFO [pages.LoginPage] : Password typed
+2020-12-05 18:29:05   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 18:29:07   INFO [libs.ActionsWithWebElements] : Dropdown menu element choosen ...
+2020-12-05 18:29:11   INFO [libs.ActionsWithWebElements] : Add Button pressed
+2020-12-05 18:29:11   INFO [pages.BonusManagementPage] : Brand selected from Drop Down
+2020-12-05 18:29:17   INFO [libs.ActionsWithWebElements] : Text entered to field ..
+2020-12-05 18:29:17   INFO [pages.BonusSetupPage] : Bonus title typed
+2020-12-05 18:29:17   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 18:29:17   INFO [libs.ActionsWithWebElements] : Item selected ...
+2020-12-05 18:29:24   INFO [libs.ActionsWithWebElements] : Expand Button pressed any way ...
+2020-12-05 18:29:24   INFO [libs.ActionsWithWebElements] : Expand Button pressed
+2020-12-05 18:29:24   INFO [pages.BonusSetupPage] : Game title selected
+2020-12-05 18:29:33   INFO [libs.ActionsWithWebElements] : Drop down selected any way ...
+2020-12-05 18:29:33   INFO [pages.BonusSetupPage] : Game denomination selected
+2020-12-05 18:29:33   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 18:29:33   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 18:29:33   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 18:29:33   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 18:29:34   INFO [libs.ActionsWithWebElements] : Text printed to field
+2020-12-05 18:29:34   INFO [pages.BonusSetupPage] : Player ID entered
+2020-12-05 18:29:34   INFO [libs.ActionsWithWebElements] : Button clicked. Alert expected.
+2020-12-05 18:29:34   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 18:29:34   INFO [libs.ActionsWithWebElements] : Approve alert processed
+2020-12-05 18:29:47   INFO [libs.ActionsWithWebElements] : Alert accepted
+2020-12-05 18:29:47   INFO [libs.ActionsWithWebElements] : Success alert processed
+2020-12-05 18:29:47   INFO [libs.ActionsWithWebElements] : Clicked ..
+2020-12-05 18:29:47   INFO [libs.ActionsWithWebElements] : Clicked ..
